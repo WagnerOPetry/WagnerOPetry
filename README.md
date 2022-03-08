@@ -3,7 +3,7 @@
 <div align="justify"> 
         <p>Atualmente estou em processo de transição de carreira, partindo da docência para a área de TI. Estou cursando análise e desenvolvimento de sistemas na UNIP (conclusão em 2022) e realizando cursos complementares, como lógica de programação e linguagens de programação.</p>
 
-  <p>Este perfil tem como intuito, registra minha evolução ao longo do processo de aprendizagem de liguagens de programação.</p>
+  <p>Este perfil tem como intuito, registrar minha evolução ao longo do processo de aprendizagem de liguagens de programação.</p>
 </div>
 
 ##
