@@ -5,7 +5,6 @@
 
   <p>Este perfil tem como intuito, registrar minha evolução ao longo do processo de aprendizagem de liguagens de programação.</p>
 </div>
-
 ##
  
  <div>
